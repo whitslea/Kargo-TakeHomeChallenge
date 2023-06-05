@@ -1,4 +1,4 @@
-# Cypress Automation for Kargo
+# Cypress Automation for Kargo Video Tag Builder
 
 Whitney Lea - Kargo Automated Take Home Challenge
 
