@@ -11,7 +11,7 @@ The assignment:
 
 ## ⚠️ - Prerequisites
 - Make sure you have [Node.js](https://nodejs.org/en/download/) installed
-- Make sure that you have already run `npm init` or have a `node_modules` folder or `package.json` file in the root of your project to ensure cypress is installed in the correct directory.
+- Make sure that you have already run `npm init` or have a `node_modules` folder in the root of this project to ensure cypress is installed in the correct directory.
 - Make sure Cypress `e2e` folder installed and configured via Cypress Dashboard
 
 ## 💻 - Getting Started 
