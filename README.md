@@ -1,5 +1,4 @@
 # Cypress Automation for Kargo
-![Test Runtime]() ![GitHub contributors]()
 
 Whitney Lea - Kargo Automated Take Home Challenge
 
